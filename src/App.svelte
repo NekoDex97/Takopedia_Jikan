@@ -18,7 +18,7 @@
   <h1>Hi! We have the info of the anime you are looking for <br/> ᕙ(  •̀ ᗜ •́  )ᕗ  </h1>
   <Home />
 </main>
-<footer>Made with Jikan REST API </footer>
+<footer> This site Made with Jikan REST API </footer>
 
 <style>
   
